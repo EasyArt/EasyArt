@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Raphael 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EasyArt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<!--
-**EasyArt/EasyArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a System Integration Specialist with a passion for **Docker**, **Linux**, and **Open-source technology**.
+- 🛠️ I work on various projects involving **Containerization**, **Automation**, and **Network Administration**.
+- 🌱 Currently learning: **Kubernetes** and **Advanced Docker Networking**.
+- 💬 Ask me about: **Linux, Docker, and System Integration**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EasyArt&show_icons=true&theme=radical" alt="Raphael's GitHub Stats" />
+</p>
+
+---
+
+### 💬 My Discord Status
+
+<p align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/134764755062620160" alt="Discord Status" />
+</p>
+
+---
+
+### ⚡ Fun fact:
+
+- I enjoy customizing my setup and exploring new open-source projects in my free time!

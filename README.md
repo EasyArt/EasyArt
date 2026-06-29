@@ -22,14 +22,6 @@
 
 ---
 
-### 💬 My Discord Status
-
-<p align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/134764755062620160" alt="Discord Status" />
-</p>
-
----
-
 ### ⚡ Fun fact:
 
 - I enjoy customizing my setup and exploring new open-source projects in my free time!

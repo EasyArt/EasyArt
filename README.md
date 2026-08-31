@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EasyArt&show_icons=true&theme=radical" alt="Raphael's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=easyart&custom_title=Raphi%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark" />
 </p>
 
 ---
